@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Novost 1 - Turistička Agencija">
+    <meta name="keywords" content="novost 1, ljeto 2025, ponuda, putovanja">
+    <meta name="author" content="Vaše ime">
+    <title>Novost 1 - Turistička Agencija</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <h1>Novost 1: Najnovija ponuda za ljeto 2025.</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Početna stranica</a></li>
+                <li><a href="novosti.html">Novosti</a></li>
+                <li><a href="kontakt.html">Kontakt</a></li>
+                <li><a href="onama.html">O nama</a></li>
+                <li><a href="galerija.html">Galerija</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Najnovija ponuda za ljeto 2025.</h1>
+        <p>Naša agencija nudi nevjerojatne ljetne pakete za 2025. godinu! Pogledajte najnovije destinacije i ekskluzivne ponude za vas.</p>
+        <img src="images/ljeto2025.jpg" alt="Ljetna destinacija" style="width: 100%; height: auto;">
+        <p>Za više informacija, slobodno nas kontaktirajte ili posjetite našu stranicu za detalje o ponudama i cijenama.</p>
+        <a href="novosti.html">Povratak na novosti</a>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Turistička Agencija | Sva prava pridržana.</p>
+        <p>Pratite nas na društvenim mrežama!</p>
+        <a href="https://github.com/vaš-username" target="_blank">Pogledajte moj GitHub</a>
+    </footer>
+</body>
+</html>

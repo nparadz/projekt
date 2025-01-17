@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Novost 2 - Turistička Agencija">
+    <meta name="keywords" content="novost 2, savjeti, planiranje, odmor">
+    <meta name="author" content="Vaše ime">
+    <title>Novost 2 - Turistička Agencija</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <h1>Novost 2: Kako planirati savršen odmor</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Početna stranica</a></li>
+                <li><a href="novosti.html">Novosti</a></li>
+                <li><a href="kontakt.html">Kontakt</a></li>
+                <li><a href="onama.html">O nama</a></li>
+                <li><a href="galerija.html">Galerija</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Kako planirati savršen odmor</h1>
+        <p>Pronašli smo nekoliko savjeta za planiranje savršenog odmora. Kako odabrati destinaciju, kako uštedjeti na putovanjima i još mnogo toga!</p>
+        <img src="images/planiranje.jpg" alt="Planiranje odmora" style="width: 100%; height: auto;">
+        <p>Posjetite našu stranicu i saznajte više o savjetima za organiziranje vašeg puta.</p>
+        <a href="novosti.html">Povratak na novosti</a>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Turistička Agencija | Sva prava pridržana.</p>
+        <p>Pratite nas na društvenim mrežama!</p>
+        <a href="https://github.com/vaš-username" target="_blank">Pogledajte moj GitHub</a>
+    </footer>
+</body>
+</html>
